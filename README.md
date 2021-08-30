@@ -61,4 +61,4 @@ title: Interview questions
 - What do you wish you had known before joining this company?
 - Why did you choose to join this company?
 - Can you give me an example of an issue this team is facing and what's currently being done to address that?
-
+- What kind of long-term strategies and comittments have you made as a company, toward sustainbility?
